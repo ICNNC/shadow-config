@@ -7,3 +7,5 @@ shadowrocket配置文件
 开启TUN Mode在 设置->代理->代理类型->None (TUN Mode)
 
 DNS泄露检测https://ipleak.net/
+
+频道:https://t.me/Github_ICNNC
