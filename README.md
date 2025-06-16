@@ -9,13 +9,14 @@
 🔗 lowertop
 
 🔍 DNS 泄露检测推荐
+
 你可以使用以下服务验证本配置 DNS 安全性：
 
 👉 https://ipleak.net/
 
 👉 https://dnsleaktest.com/
 
-联系与订阅
+📬联系与订阅
 Telegram 频道：@Github_ICNNC
 
 项目主页：https://github.com/ICNNC/shadow-config
