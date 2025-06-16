@@ -18,7 +18,7 @@
 
 👉 https://dnsleaktest.com/
 
-⚠️ 注：如分流规则将 👉 https://browserleaks.com/dns 设为直连，检测时显示真实 IP 属正常现象
+⚠️ 注：分流规则将 👉 https://browserleaks.com/dns 设为直连，检测时显示真实 IP 属正常现象
 
 ✅ 只要 "Your DNS Servers" 中未出现本地 DNS（如运营商地址），即无泄露
 
