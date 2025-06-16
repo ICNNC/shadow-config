@@ -19,7 +19,7 @@
 👉 https://dnsleaktest.com/
 
 #由于某条分流规则将👉https://browserleaks.com/dns这个网站设为直连
-#在这里检测的时候显示你的真实ip是正常的
+在这里检测的时候显示你的真实ip是正常的
 #只要Your DNS Servers字段没有显示你当地的dns服务器就是没有泄露
 
 📬联系与订阅
