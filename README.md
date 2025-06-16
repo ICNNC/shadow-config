@@ -1,9 +1,22 @@
-shadowrocket配置文件
+📦 Shadowrocket 配置文件（精细分流 / 游戏优化）
 
-这个配置文件使用了ACL4SSR，blackmatrix7，lowertop制作的规则集
+本项目提供适用于 中国大陆网络环境 的高质量 Shadowrocket 分流配置，规则集来源于：
 
-此配置文件没有DNS泄露，可以放心使用
+🔗 ACL4SSR
 
-DNS泄露检测https://ipleak.net/
+🔗 blackmatrix7
 
-频道:https://t.me/Github_ICNNC
+🔗 lowertop
+
+🔍 DNS 泄露检测推荐
+你可以使用以下服务验证本配置 DNS 安全性：
+
+👉 https://ipleak.net/
+
+👉 https://dnsleaktest.com/
+
+联系与订阅
+Telegram 频道：@Github_ICNNC
+
+项目主页：https://github.com/ICNNC/shadow-config
+
