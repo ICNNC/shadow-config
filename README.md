@@ -1,8 +1,8 @@
-📦 Shadowrocket 配置文件（精细分流 / 游戏优化）
+##📦 Shadowrocket 配置文件（精细分流 / 游戏优化）
 
 本项目收集并整合了多个高质量规则集，用于 Shadowrocket 分流配置，支持常用服务、游戏平台、AI 应用、社交媒体等的精准识别与路由。
 
-📚 规则来源
+##📚 规则来源
 
 🔗 ACL4SSR
 
@@ -10,7 +10,7 @@
 
 🔗 lowertop
 
-🔍 DNS 泄露检测推荐
+##🔍 DNS 泄露检测推荐
 
 你可以使用以下服务验证本配置 DNS 安全性：
 
@@ -22,7 +22,7 @@
 
 ✅ 只要 "Your DNS Servers" 中未出现本地 DNS（如运营商地址），即无泄露
 
-📬联系与订阅
+##📬联系与订阅
 
 Telegram 频道：https://t.me/Github_ICNNC
 
