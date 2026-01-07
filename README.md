@@ -27,13 +27,6 @@
 
 ---
 
-## 📬 联系与订阅
-
-- Telegram 频道：https://t.me/Github_ICNNC  
-- 项目主页：https://github.com/ICNNC/shadow-config  
-
----
-
 ## 📄 License
 
 This configuration is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
